@@ -1,6 +1,6 @@
-<header>Realizando el challenge de amigo secreto para el curso de Practica de programacion facilitada por ONE ALURA LATAM</header>;
-<h1>Challenge Amigo Secreto</h1>;
-<hr style="border: 1px solid black; width: 50%;">;
+<header>Realizando el challenge de amigo secreto para el curso de Practica de programacion facilitada por ONE ALURA LATAM</header>
+<h1>Challenge Amigo Secreto</h1>
+<hr style="border: 1px solid black; width: 50%;">
 <div>
   <h2>Tareas realizadas:</h2>
   <ul> 
